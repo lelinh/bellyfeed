@@ -38,7 +38,6 @@ The following **optional** features are implemented:
       - [x] set hight priority for distance/food type/price.
       - [x] ...
 - [x] Have a chat page to:
-      
       - [x] set a meeting with friend.
       - [x] chit chat.
       - [x] ...      
