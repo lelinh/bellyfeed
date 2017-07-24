@@ -38,17 +38,18 @@ The following **optional** features are implemented:
       - [x] set hight priority for distance/food type/price.
       - [x] ...
 - [x] Have a chat page to:
+      
       - [x] set a meeting with friend.
       - [x] chit chat.
       - [x] ...      
 - [x] Have a personal review page to:
+      
       - [x] check in.
       - [x] show off.
       - [x] ...      
 
 The following **additional** features are implemented:
-
-- [ ] 
+- [x]...
 
 ## Video Walkthrough
 
