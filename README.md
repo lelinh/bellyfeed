@@ -11,12 +11,12 @@ The following **required** functionality is completed:
 - [x] User can view a list of food shops in homescreen.
 - [x] Shops are ordered by distance from user (and/or the filter user is set).
 - [x] Focus shop:
-      - [x] shop shows as a bubble with name  
-      - [x] shop shows review stars
-      - [x] shop shows distance from user's location.
-      - [x] shop shows the best picture
+      * shop shows as a bubble with name  
+      * shop shows review stars
+      * shop shows distance from user's location.
+      * shop shows the best picture
 - [x] Background shop:
-      - [x] shop shows as a bubble (blurred)
+      * shop shows as a bubble (blurred)
 **Shop Detail**
 - [x] User can see name of shop.
 - [x] User can see review star of shop.
@@ -29,17 +29,17 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 - [x] Have a setting page to:
-      - [x] filter favorite food/price
-      - [x] set hight priority for distance/food type/price
-      - [x] ...
+      * filter favorite food/price
+      * set hight priority for distance/food type/price
+      * ...
 - [x] Have a chat page to:
-      - [x] set a meeting with friend
-      - [x] chit chat
-      - [x] ...      
+      * set a meeting with friend
+      * chit chat
+      * ...      
 - [x] Have a personal review page to:
-      - [x] check in
-      - [x] show off
-      - [x] ...      
+      * check in
+      * show off
+      * ...      
 
 The following **additional** features are implemented:
 
@@ -53,7 +53,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-
+server is in https://github.com/dattieu/bellyfeed
 
 ## License
 
